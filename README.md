@@ -8,11 +8,10 @@ I develop tools and methods for solar market analysis, geospatial data processin
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[pv_mapper](#)** | Solar potential assessment using LiDAR | Python, WhiteboxTools, PostGIS |
-| **[solar-cv](#)** | ML pipeline for solar panel detection | PyTorch, Coiled, Label Studio |
-| **[desks-reports](#)** | K-12 school energy sustainability reports | R, Quarto, EnergyPlus |
-| **[energy-dashboard](#)** | Interactive energy data visualization | React, Plotly, PostgreSQL |
-| **[building-energy-suite](#)** | Multi-package repo for cityscale energy efficiency analysis | OpenStudio, EnergyPlus, Python |
+| **pv_mapper** | Solar potential assessment using LiDAR | Python, WhiteboxTools, PostGIS |
+| **solar-pv-detection** | ML pipeline for at-scale solar panel detection | PyTorch, Coiled, Label Studio |
+| **desks-reports** | K-12 school energy sustainability reports | R, Quarto, EnergyPlus |
+| **building-energy-suite** | Multi-package repo for cityscale energy efficiency analysis | OpenStudio, EnergyPlus, Python |
 
 ---
 
@@ -50,13 +49,3 @@ I develop tools and methods for solar market analysis, geospatial data processin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Label Studio](https://img.shields.io/badge/Label_Studio-FF6F00?style=flat)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <i>Building tools for the clean energy transition 🌱</i>
-</p>
