@@ -1,6 +1,6 @@
 # Hi, I'm Job 👋
 
-**Research Director** at the [Foundation for Renewable Energy & Environment (FREE)](https://www.freeorg.org) | Ph.D. in Energy & Environmental Policy
+**Research Director** at the [Foundation for Renewable Energy & Environment (FREE)](https://www.freefutures.org) | Ph.D. in Energy & Environmental Policy
 
 I develop tools and methods for solar market analysis, geospatial data processing, and building energy modeling at urban and landscape scales. My work sits at the intersection of renewable energy research, machine learning, and energy and climate policy analysis.
 
